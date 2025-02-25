@@ -5,4 +5,5 @@
 [⚠️]:
 
 ---- 🇪🇸: No uses mi Script para hostigar a otros en el Juego.
+ 
 ---- 🇬🇧: Don't use my Script to harass other players in Game.
